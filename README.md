@@ -1,4 +1,25 @@
+"<h1 align="center">Hi 👋, I'm Lekshana Priya</h1>
 
+<h3 align="center">Data Science | Machine Learning | Analytics Engineering</h3>
+
+<p align="center">
+🚀 Building data-driven systems that transform complex data into measurable business impact.
+</p>
+
+---
+
+<p align="left">
+🎓 M.Sc. in Artificial Intelligence and Data Science.<br>
+💼 Open to entry-level roles in Data Science, AI Engineer, Machine Learning Engineer, Data Analyst, Business Analyst.<br>
+🧠 Strong foundation in Python, SQL, feature engineering, model evaluation and Power BI for business analytics.<br>
+🌱 Currently advancing in MLOps, LLM applications, RAG systems and production-grade ML deployment.<br>
+📈 Focused on experimentation, performance optimization, and scalable model development.
+</p>
+
+
+---
+
+## 🛠 Technical Stack
 
 <p align="center">
   <b>Skills & Tools</b><br><br>
@@ -78,8 +99,3 @@ Normalized MySQL HR analytics system integrating multi-table ETL and advanced SQ
   </a>
 </p>
 "
-
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
