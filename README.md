@@ -1,6 +1,6 @@
 "<h1 align="center">Hi 👋, I'm Lekshana Priya</h1>
 
-<h3 align="center">Data Science | Machine Learning | Analytics Engineering</h3>
+<h3 align="center">Data Science | Machine Learning | AI | Agentic</h3>
 
 <p align="center">
 🚀 Building data-driven systems that transform complex data into measurable business impact.
